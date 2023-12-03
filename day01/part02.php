@@ -1,6 +1,6 @@
 <?php
 
-$INPUT = file_get_contents('../day01/input.txt'); // same input as day one
+$INPUT = file_get_contents('input.txt'); // same input as day one
 
 // List of digits as strings
 // ("zero" isn't included in the brief even though it's a single-digit number)
